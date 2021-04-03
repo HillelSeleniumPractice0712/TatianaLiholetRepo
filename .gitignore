@@ -1,3 +1,6 @@
 .idea/
 target/
-*.iml
+*.iml/
+.allure-results/
+.downloads/
+.screenshots
